@@ -1,4 +1,7 @@
 # **POMODORO TIMER**
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9094f3c312ed49a49ee89f05d20abd61)](https://www.codacy.com/app/DIDAH-ASEEY/bc-14-POMODORO-TIMER?utm_source=github.com&utm_medium=referral&utm_content=DIDAH-ASEEY/bc-14-POMODORO-TIMER&utm_campaign=badger)
+
 The pomodoro timer is an application that implements the  **Pomodoro** technique.
 A time management method that uses a timer to break down tasks into intervals "_pomodoros_", usually set at 25 mins each,
 separated by short breaks and a long break after a specified number of cycles.
